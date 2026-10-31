@@ -1,0 +1,21 @@
+{
+  "scenes": [
+    {
+      "start": 0,
+      "end": 180,
+      "image_path": "golf-ball.jpg",
+      "fit": "cover",
+      "layout": "split",
+      "provenance": {
+        "provider": "pexels",
+        "photo_id": 9207749,
+        "photo_url": "https://www.pexels.com/photo/a-golf-ball-on-the-grass-9207749/",
+        "asset_url": "https://images.pexels.com/photos/9207749/pexels-photo-9207749.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "photographer": "Mikhail Nilov",
+        "photographer_url": "https://www.pexels.com/@mikhail-nilov",
+        "alt": "A close-up image of a golf ball resting on vibrant green grass, perfect for sports and recreation themes.",
+        "usage": "illustrative_stock_image"
+      }
+    }
+  ]
+}

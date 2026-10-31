@@ -1,0 +1,248 @@
+{
+  "scenes": [
+    {
+      "start": 0,
+      "end": 6.4,
+      "image_path": "cosa-harbour.jpg",
+      "headline": "2,000 YEARS IN SEAWATER",
+      "fit": "cover",
+      "provenance": {
+        "provider": "commons",
+        "photo_url": "https://commons.wikimedia.org/wiki/File:Porto_di_Cosa_(GR).jpg",
+        "asset_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Porto_di_Cosa_%28GR%29.jpg/960px-Porto_di_Cosa_%28GR%29.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+        "photographer": "Matteo Vinattieri",
+        "alt": "Porto di Cosa (GR).jpg",
+        "description": "The ancient port of Cosa, Italy. Site photograph; individual structures are not identified as research samples.",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0/",
+        "modifications": "Cropped/resized for the video; motion may be applied.",
+        "usage": "archive_image"
+      }
+    },
+    {
+      "start": 6.4,
+      "end": 9.9,
+      "image_path": "roman-vault.jpg",
+      "headline": "",
+      "fit": "cover",
+      "provenance": {
+        "provider": "commons",
+        "photo_id": 1476569,
+        "photo_url": "https://commons.wikimedia.org/wiki/File%3AAncient_Roman_concrete_vault.jpg",
+        "asset_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Ancient_Roman_concrete_vault.jpg/1280px-Ancient_Roman_concrete_vault.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photographer": "Michael Wilson from York, United Kingdom",
+        "alt": "Ancient Roman concrete vault.jpg",
+        "description": "Ancient Roman concrete vault in Rome. DSC00641",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "modifications": "Cropped/resized for the video; motion may be applied.",
+        "usage": "archive_image",
+        "title_match": true
+      }
+    },
+    {
+      "start": 9.9,
+      "end": 13.2,
+      "image_path": "volcanic-ash.jpg",
+      "headline": "",
+      "fit": "cover",
+      "provenance": {
+        "provider": "commons",
+        "photo_id": 128559889,
+        "photo_url": "https://commons.wikimedia.org/wiki/File%3AVolcanic_Ash_from_Mount_St_Helens_-_GeoDIL_460.jpg",
+        "asset_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Volcanic_Ash_from_Mount_St_Helens_-_GeoDIL_460.jpg/1280px-Volcanic_Ash_from_Mount_St_Helens_-_GeoDIL_460.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photographer": "Nessa Eull",
+        "alt": "Volcanic Ash from Mount St Helens - GeoDIL 460.jpg",
+        "description": "Volcanic ash from the 1980 eruption of Mt. St. Helens, in the Cascade Range of Washington, USA. Geoscience Digital Image Library (GeoDIL) photo 460.",
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "modifications": "Cropped/resized for the video; motion may be applied.",
+        "usage": "archive_image",
+        "title_match": true
+      }
+    },
+    {
+      "start": 13.2,
+      "end": 15.58,
+      "image_path": "volcanic-rock.jpg",
+      "headline": "",
+      "fit": "cover",
+      "provenance": {
+        "provider": "commons",
+        "photo_id": 173710781,
+        "photo_url": "https://commons.wikimedia.org/wiki/File%3AAncient_ash_deposits_on_Lesbos.jpg",
+        "asset_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Ancient_ash_deposits_on_Lesbos.jpg/1280px-Ancient_ash_deposits_on_Lesbos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photographer": "Bouke ten Cate",
+        "alt": "Ancient ash deposits on Lesbos.jpg",
+        "description": "Ancient volcanic ash deposits along the coast of Lesbos - Greece",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "modifications": "Cropped/resized for the video; motion may be applied.",
+        "usage": "archive_image",
+        "title_match": false
+      }
+    },
+    {
+      "start": 15.58,
+      "end": 20,
+      "image_path": "cosa-harbour.jpg",
+      "headline": "",
+      "fit": "cover",
+      "provenance": {
+        "provider": "commons",
+        "photo_url": "https://commons.wikimedia.org/wiki/File:Porto_di_Cosa_(GR).jpg",
+        "asset_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Porto_di_Cosa_%28GR%29.jpg/960px-Porto_di_Cosa_%28GR%29.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+        "photographer": "Matteo Vinattieri",
+        "alt": "Porto di Cosa (GR).jpg",
+        "description": "The ancient port of Cosa, Italy. Site photograph; individual structures are not identified as research samples.",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0/",
+        "modifications": "Cropped/resized for the video; motion may be applied.",
+        "usage": "archive_image"
+      }
+    },
+    {
+      "start": 20,
+      "end": 24.74,
+      "image_path": "tobermorite.jpg",
+      "headline": "",
+      "fit": "cover",
+      "provenance": {
+        "provider": "commons",
+        "photo_id": 131474047,
+        "photo_url": "https://commons.wikimedia.org/wiki/File%3ATobermorite-540539.jpg",
+        "asset_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Tobermorite-540539.jpg/330px-Tobermorite-540539.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photographer": "John Sobolewski (JSS)",
+        "alt": "Tobermorite-540539.jpg",
+        "description": "Tobermorite Locality: Crestmore quarries, Crestmore, Riverside Co., California, USA Description: A 5.8 by 3.4 cms mass of blue Calcite with rounded white crystals of Tobermorite. JSS specimen and photo.",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "modifications": "Cropped/resized for the video; motion may be applied.",
+        "usage": "archive_image",
+        "title_match": true
+      }
+    },
+    {
+      "start": 24.74,
+      "end": 28.14,
+      "image_path": "volcanic-ash.jpg",
+      "headline": "",
+      "fit": "cover",
+      "provenance": {
+        "provider": "commons",
+        "photo_id": 128559889,
+        "photo_url": "https://commons.wikimedia.org/wiki/File%3AVolcanic_Ash_from_Mount_St_Helens_-_GeoDIL_460.jpg",
+        "asset_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Volcanic_Ash_from_Mount_St_Helens_-_GeoDIL_460.jpg/1280px-Volcanic_Ash_from_Mount_St_Helens_-_GeoDIL_460.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photographer": "Nessa Eull",
+        "alt": "Volcanic Ash from Mount St Helens - GeoDIL 460.jpg",
+        "description": "Volcanic ash from the 1980 eruption of Mt. St. Helens, in the Cascade Range of Washington, USA. Geoscience Digital Image Library (GeoDIL) photo 460.",
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "modifications": "Cropped/resized for the video; motion may be applied.",
+        "usage": "archive_image",
+        "title_match": true
+      }
+    },
+    {
+      "start": 28.14,
+      "end": 33.96,
+      "image_path": "tobermorite.jpg",
+      "headline": "",
+      "fit": "cover",
+      "provenance": {
+        "provider": "commons",
+        "photo_id": 131474047,
+        "photo_url": "https://commons.wikimedia.org/wiki/File%3ATobermorite-540539.jpg",
+        "asset_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Tobermorite-540539.jpg/330px-Tobermorite-540539.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photographer": "John Sobolewski (JSS)",
+        "alt": "Tobermorite-540539.jpg",
+        "description": "Tobermorite Locality: Crestmore quarries, Crestmore, Riverside Co., California, USA Description: A 5.8 by 3.4 cms mass of blue Calcite with rounded white crystals of Tobermorite. JSS specimen and photo.",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "modifications": "Cropped/resized for the video; motion may be applied.",
+        "usage": "archive_image",
+        "title_match": true
+      }
+    },
+    {
+      "start": 33.96,
+      "end": 39.18,
+      "image_path": "roman-vault.jpg",
+      "headline": "",
+      "fit": "cover",
+      "provenance": {
+        "provider": "commons",
+        "photo_id": 1476569,
+        "photo_url": "https://commons.wikimedia.org/wiki/File%3AAncient_Roman_concrete_vault.jpg",
+        "asset_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Ancient_Roman_concrete_vault.jpg/1280px-Ancient_Roman_concrete_vault.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photographer": "Michael Wilson from York, United Kingdom",
+        "alt": "Ancient Roman concrete vault.jpg",
+        "description": "Ancient Roman concrete vault in Rome. DSC00641",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "modifications": "Cropped/resized for the video; motion may be applied.",
+        "usage": "archive_image",
+        "title_match": true
+      }
+    },
+    {
+      "start": 39.18,
+      "end": 45.1,
+      "image_path": "cosa-harbour.jpg",
+      "headline": "",
+      "fit": "cover",
+      "provenance": {
+        "provider": "commons",
+        "photo_url": "https://commons.wikimedia.org/wiki/File:Porto_di_Cosa_(GR).jpg",
+        "asset_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Porto_di_Cosa_%28GR%29.jpg/960px-Porto_di_Cosa_%28GR%29.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+        "photographer": "Matteo Vinattieri",
+        "alt": "Porto di Cosa (GR).jpg",
+        "description": "The ancient port of Cosa, Italy. Site photograph; individual structures are not identified as research samples.",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0/",
+        "modifications": "Cropped/resized for the video; motion may be applied.",
+        "usage": "archive_image"
+      }
+    },
+    {
+      "start": 45.1,
+      "end": 49.3,
+      "image_path": "roman-vault.jpg",
+      "headline": "",
+      "fit": "cover",
+      "provenance": {
+        "provider": "commons",
+        "photo_id": 1476569,
+        "photo_url": "https://commons.wikimedia.org/wiki/File%3AAncient_Roman_concrete_vault.jpg",
+        "asset_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Ancient_Roman_concrete_vault.jpg/1280px-Ancient_Roman_concrete_vault.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "photographer": "Michael Wilson from York, United Kingdom",
+        "alt": "Ancient Roman concrete vault.jpg",
+        "description": "Ancient Roman concrete vault in Rome. DSC00641",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "modifications": "Cropped/resized for the video; motion may be applied.",
+        "usage": "archive_image",
+        "title_match": true
+      }
+    },
+    {
+      "start": 49.3,
+      "end": 56.04,
+      "image_path": "cosa-harbour.jpg",
+      "headline": "",
+      "fit": "cover",
+      "provenance": {
+        "provider": "commons",
+        "photo_url": "https://commons.wikimedia.org/wiki/File:Porto_di_Cosa_(GR).jpg",
+        "asset_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Porto_di_Cosa_%28GR%29.jpg/960px-Porto_di_Cosa_%28GR%29.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+        "photographer": "Matteo Vinattieri",
+        "alt": "Porto di Cosa (GR).jpg",
+        "description": "The ancient port of Cosa, Italy. Site photograph; individual structures are not identified as research samples.",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0/",
+        "modifications": "Cropped/resized for the video; motion may be applied.",
+        "usage": "archive_image"
+      }
+    }
+  ]
+}

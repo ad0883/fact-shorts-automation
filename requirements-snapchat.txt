@@ -1,0 +1,2 @@
+# Optional encrypted Public Profile API uploads
+cryptography>=43,<47

@@ -1,0 +1,133 @@
+{
+  "title": "Would a Smooth Golf Ball Fly Farther?",
+  "description": "Golf-ball dimples change the airflow close to the surface, reducing pressure drag at typical golf speeds. Follow the wake to see why smoothing the ball can shorten its flight.",
+  "category": "everyday physics and materials science",
+  "tags": [
+    "golf",
+    "physics",
+    "aerodynamics",
+    "science",
+    "golf ball"
+  ],
+  "fact_text": "Would a smoother golf ball fly farther? It sounds sensible: fewer bumps, less resistance. But watch what happens to the air behind it. A smooth ball can leave a broad wake as air separates from its surface. That pressure difference slows it down. Dimples stir the thin layer of air touching the ball, helping it follow the curve longer before peeling away. The wake shrinks, and pressure drag drops. So at typical golf speeds, smoothing away those dimples can make the ball fly a shorter distance.",
+  "sources": [
+    {
+      "title": "NASA Glenn: Drag of a Sphere",
+      "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/drag-of-a-sphere/",
+      "claim": "At golf-ball sizes and speeds, surface roughness promotes turbulence and can reduce drag compared with a smooth ball of the same speed, diameter and weight."
+    },
+    {
+      "title": "NASA: World Cup Lesson in Aerodynamics",
+      "url": "https://www.nasa.gov/aeronautics/nasa-turns-world-cup-into-lesson-in-aerodynamics/",
+      "claim": "Golf-ball dimples alter the boundary layer, producing a smaller low-pressure wake and less drag."
+    }
+  ],
+  "storyboard": [
+    {
+      "role": "hook",
+      "narration": "Would a smoother golf ball fly farther?",
+      "visual": {
+        "kind": "animation",
+        "template": "golf_airflow",
+        "view": "question",
+        "headline": "WHICH ONE FLIES FARTHER?",
+        "query": "",
+        "labels": []
+      }
+    },
+    {
+      "role": "setup",
+      "narration": "It sounds sensible: fewer bumps, less resistance.",
+      "visual": {
+        "kind": "photo",
+        "headline": "Smooth sounds faster.",
+        "query": "golf ball close up",
+        "labels": []
+      }
+    },
+    {
+      "role": "setup",
+      "narration": "But watch what happens to the air behind it.",
+      "visual": {
+        "kind": "animation",
+        "template": "golf_airflow",
+        "view": "smooth",
+        "headline": "WATCH THE AIR BEHIND IT",
+        "query": "",
+        "labels": []
+      }
+    },
+    {
+      "role": "explain",
+      "narration": "A smooth ball can leave a broad wake as air separates from its surface.",
+      "visual": {
+        "kind": "animation",
+        "template": "golf_airflow",
+        "view": "smooth",
+        "headline": "A SMOOTH BALL LEAVES A BROAD WAKE",
+        "query": "",
+        "labels": []
+      }
+    },
+    {
+      "role": "explain",
+      "narration": "That pressure difference slows it down.",
+      "visual": {
+        "kind": "animation",
+        "template": "golf_airflow",
+        "view": "drag",
+        "headline": "PRESSURE DRAG SLOWS IT DOWN",
+        "query": "",
+        "labels": []
+      }
+    },
+    {
+      "role": "explain",
+      "narration": "Dimples stir the thin layer of air touching the ball,",
+      "visual": {
+        "kind": "animation",
+        "template": "golf_airflow",
+        "view": "dimples",
+        "headline": "IT STARTS AT THE SURFACE",
+        "query": "",
+        "labels": []
+      }
+    },
+    {
+      "role": "explain",
+      "narration": "helping it follow the curve longer before peeling away.",
+      "visual": {
+        "kind": "animation",
+        "template": "golf_airflow",
+        "view": "attached",
+        "headline": "THE AIR HOLDS ON LONGER",
+        "query": "",
+        "labels": []
+      }
+    },
+    {
+      "role": "explain",
+      "narration": "The wake shrinks, and pressure drag drops.",
+      "visual": {
+        "kind": "animation",
+        "template": "golf_airflow",
+        "view": "wake",
+        "headline": "SMALLER WAKE. LESS DRAG.",
+        "query": "",
+        "labels": []
+      }
+    },
+    {
+      "role": "reveal",
+      "narration": "So at typical golf speeds, smoothing away those dimples can make the ball fly a shorter distance.",
+      "visual": {
+        "kind": "animation",
+        "template": "golf_airflow",
+        "view": "comparison",
+        "headline": "DIMPLES CHANGE THE AIRFLOW",
+        "query": "",
+        "labels": []
+      }
+    }
+  ]
+}

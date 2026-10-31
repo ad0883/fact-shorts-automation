@@ -1,0 +1,6 @@
+requests>=2.31.0,<3
+Pillow>=10,<13
+python-dotenv>=1.0.0,<2
+edge-tts>=7.0.0,<8
+gTTS>=2.5.0,<3
+faster-whisper>=1.0.0,<2

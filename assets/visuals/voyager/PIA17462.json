@@ -1,0 +1,10 @@
+{
+  "provider": "nasa",
+  "photo_id": "PIA17462",
+  "photo_url": "https://images.nasa.gov/details/PIA17462",
+  "asset_url": "https://images-assets.nasa.gov/image/PIA17462/PIA17462~large.jpg",
+  "photographer": "NASA/JPL-Caltech",
+  "alt": "Voyager 1 Entering Interstellar Space Artist Concept",
+  "description": "This artist concept depicts NASA Voyager 1 spacecraft entering interstellar space. Interstellar space is dominated by the plasma, or ionized gas, that was ejected by the death of nearby giant stars millions of years ago.",
+  "usage": "artist_concept"
+}

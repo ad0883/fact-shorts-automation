@@ -1,0 +1,12 @@
+{
+  "provider": "commons",
+  "photo_url": "https://commons.wikimedia.org/wiki/File:Porto_di_Cosa_(GR).jpg",
+  "asset_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Porto_di_Cosa_%28GR%29.jpg/960px-Porto_di_Cosa_%28GR%29.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+  "photographer": "Matteo Vinattieri",
+  "alt": "Porto di Cosa (GR).jpg",
+  "description": "The ancient port of Cosa, Italy. Site photograph; individual structures are not identified as research samples.",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0/",
+  "modifications": "Cropped/resized for the video; motion may be applied.",
+  "usage": "archive_image"
+}

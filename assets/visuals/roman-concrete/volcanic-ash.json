@@ -1,0 +1,14 @@
+{
+  "provider": "commons",
+  "photo_id": 128559889,
+  "photo_url": "https://commons.wikimedia.org/wiki/File%3AVolcanic_Ash_from_Mount_St_Helens_-_GeoDIL_460.jpg",
+  "asset_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Volcanic_Ash_from_Mount_St_Helens_-_GeoDIL_460.jpg/1280px-Volcanic_Ash_from_Mount_St_Helens_-_GeoDIL_460.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "photographer": "Nessa Eull",
+  "alt": "Volcanic Ash from Mount St Helens - GeoDIL 460.jpg",
+  "description": "Volcanic ash from the 1980 eruption of Mt. St. Helens, in the Cascade Range of Washington, USA. Geoscience Digital Image Library (GeoDIL) photo 460.",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "modifications": "Cropped/resized for the video; motion may be applied.",
+  "usage": "archive_image",
+  "title_match": true
+}

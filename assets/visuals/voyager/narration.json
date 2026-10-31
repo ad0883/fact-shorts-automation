@@ -1,0 +1,8 @@
+{
+  "provider": "gemini",
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Achird",
+  "style": "Warm, conversational storytelling, like explaining something fascinating to a friend. Use connected phrasing and varied intonation, with gentle emphasis on the key discovery. Speak at an easy, engaged pace, roughly 155 to 170 words per minute. Use brief pauses at sentence boundaries and a small pause after the opening hook. Let the final sentence land naturally. Avoid a sales pitch, announcer delivery, exaggerated excitement, and choppy pauses between words.",
+  "fallback_used": false,
+  "sha256": "d564af755cb610a7fe6a221dff2613ffabdfd332cfb8d232acb44aa0c24f2a5f"
+}

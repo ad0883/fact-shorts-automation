@@ -1,0 +1,10 @@
+{
+  "provider": "nasa",
+  "photo_id": "PIA17045",
+  "photo_url": "https://images.nasa.gov/details/PIA17045",
+  "asset_url": "https://images-assets.nasa.gov/image/PIA17045/PIA17045~orig.jpg",
+  "photographer": "NASA/JPL-Caltech",
+  "alt": "Voyager Captures Sounds of Interstellar Space",
+  "description": "This visual represents sounds captured of interstellar space by NASA Voyager 1 spacecraft. Voyager 1 plasma wave instrument detected the vibrations of dense interstellar plasma.",
+  "usage": "agency_image"
+}

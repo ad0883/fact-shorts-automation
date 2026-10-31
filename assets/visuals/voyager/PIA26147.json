@@ -1,0 +1,10 @@
+{
+  "provider": "nasa",
+  "photo_id": "PIA26147",
+  "photo_url": "https://images.nasa.gov/details/PIA26147",
+  "asset_url": "https://images-assets.nasa.gov/image/PIA26147/PIA26147~large.jpg",
+  "photographer": "NASA/JPL-Caltech",
+  "alt": "Six Deep Space Network Antennas in Madrid Arrayed For the First Time",
+  "description": " In a historic first, all six radio frequency antennas at the Madrid Deep Space Communication Complex \u2013 part of NASA's Deep Space Network (DSN) \u2013 carried out a test to receive data from the agency's Voyager 1 spacecraft at the same time on April 20, 2024. Known as \"arraying,\" combining the receiving power of several antennas allows the DSN to collect the very faint signals from faraway spacecraft. A five-antenna array is currently needed to downlink science data from the spacecraft's Plasma Wave System (PWS) instrument. As Voyager gets further way, six antennas will be needed.  The Voyager team is currently working to fix an issue on the spacecraft that has prevented it from sending back science data since November.  Though the antennas located at the DSN's three complexes \u2013 Goldstone in California, Canberra in Australia, and Madrid \u2013 have been arrayed before, this is the first instance of six antennas being arrayed at once. Madrid is the only deep space communication complex currently with six operational antennas (the other two complexes have four apiece). Each complex consists of one 70-meter (230-foot) antenna and several 34-meter (112-foot) antennas.  Voyager 1 is over 15 billion miles (24 billion kilometers) away, so its signal on Earth is far fainter than any other spacecraft with which the DSN communicates. It currently takes Voyager 1's signal over 22 \u00bd hours to travel from the spacecraft to Earth. To better receive Voyager 1's radio communications, a large antenna \u2013 or an array of multiple smaller antennas \u2013 can be used.  Voyager 1 and its twin, Voyager 2, are the only spacecraft ever to fly in interstellar space (the space between stars).  https://photojournal.jpl.nasa.gov/catalog/PIA26147",
+  "usage": "agency_image"
+}

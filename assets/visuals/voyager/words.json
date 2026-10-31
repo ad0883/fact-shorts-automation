@@ -1,0 +1,607 @@
+[
+  {
+    "word": "This",
+    "start": 0.0,
+    "end": 0.42
+  },
+  {
+    "word": "probe",
+    "start": 0.42,
+    "end": 0.76
+  },
+  {
+    "word": "crossed",
+    "start": 0.76,
+    "end": 1.1
+  },
+  {
+    "word": "a",
+    "start": 1.1,
+    "end": 1.26
+  },
+  {
+    "word": "border",
+    "start": 1.26,
+    "end": 1.48
+  },
+  {
+    "word": "no",
+    "start": 1.48,
+    "end": 2.1
+  },
+  {
+    "word": "camera",
+    "start": 2.1,
+    "end": 2.5
+  },
+  {
+    "word": "could",
+    "start": 2.5,
+    "end": 2.68
+  },
+  {
+    "word": "see.",
+    "start": 2.68,
+    "end": 2.98
+  },
+  {
+    "word": "NASA",
+    "start": 3.8,
+    "end": 3.98
+  },
+  {
+    "word": "launched",
+    "start": 3.98,
+    "end": 4.4
+  },
+  {
+    "word": "Voyager",
+    "start": 4.4,
+    "end": 4.76
+  },
+  {
+    "word": "One",
+    "start": 4.76,
+    "end": 5.0
+  },
+  {
+    "word": "in",
+    "start": 5.0,
+    "end": 5.22
+  },
+  {
+    "word": "1977.",
+    "start": 5.22,
+    "end": 6.16
+  },
+  {
+    "word": "Decades",
+    "start": 6.94,
+    "end": 7.36
+  },
+  {
+    "word": "later,",
+    "start": 7.36,
+    "end": 7.68
+  },
+  {
+    "word": "it",
+    "start": 7.82,
+    "end": 7.88
+  },
+  {
+    "word": "reached",
+    "start": 7.88,
+    "end": 8.06
+  },
+  {
+    "word": "the",
+    "start": 8.06,
+    "end": 8.3
+  },
+  {
+    "word": "edge",
+    "start": 8.3,
+    "end": 8.5
+  },
+  {
+    "word": "of",
+    "start": 8.5,
+    "end": 8.66
+  },
+  {
+    "word": "the",
+    "start": 8.66,
+    "end": 8.74
+  },
+  {
+    "word": "Sun's",
+    "start": 8.74,
+    "end": 9.16
+  },
+  {
+    "word": "enormous",
+    "start": 9.16,
+    "end": 9.58
+  },
+  {
+    "word": "bubble",
+    "start": 9.58,
+    "end": 10.04
+  },
+  {
+    "word": "of",
+    "start": 10.04,
+    "end": 10.22
+  },
+  {
+    "word": "charged",
+    "start": 10.22,
+    "end": 10.64
+  },
+  {
+    "word": "particles.",
+    "start": 10.64,
+    "end": 11.2
+  },
+  {
+    "word": "But",
+    "start": 11.78,
+    "end": 12.14
+  },
+  {
+    "word": "how",
+    "start": 12.14,
+    "end": 12.44
+  },
+  {
+    "word": "could",
+    "start": 12.44,
+    "end": 12.58
+  },
+  {
+    "word": "anyone",
+    "start": 12.58,
+    "end": 12.92
+  },
+  {
+    "word": "tell",
+    "start": 12.92,
+    "end": 13.2
+  },
+  {
+    "word": "it",
+    "start": 13.2,
+    "end": 13.3
+  },
+  {
+    "word": "had",
+    "start": 13.3,
+    "end": 13.38
+  },
+  {
+    "word": "crossed?",
+    "start": 13.38,
+    "end": 13.7
+  },
+  {
+    "word": "There",
+    "start": 14.34,
+    "end": 14.48
+  },
+  {
+    "word": "was",
+    "start": 14.48,
+    "end": 14.68
+  },
+  {
+    "word": "no",
+    "start": 14.68,
+    "end": 14.92
+  },
+  {
+    "word": "finish",
+    "start": 14.92,
+    "end": 15.3
+  },
+  {
+    "word": "line",
+    "start": 15.3,
+    "end": 15.64
+  },
+  {
+    "word": "floating",
+    "start": 15.64,
+    "end": 15.96
+  },
+  {
+    "word": "in",
+    "start": 15.96,
+    "end": 16.14
+  },
+  {
+    "word": "space.",
+    "start": 16.14,
+    "end": 16.4
+  },
+  {
+    "word": "The",
+    "start": 17.16,
+    "end": 17.4
+  },
+  {
+    "word": "clue",
+    "start": 17.4,
+    "end": 17.72
+  },
+  {
+    "word": "came",
+    "start": 17.72,
+    "end": 18.14
+  },
+  {
+    "word": "from",
+    "start": 18.14,
+    "end": 18.32
+  },
+  {
+    "word": "the",
+    "start": 18.32,
+    "end": 18.46
+  },
+  {
+    "word": "gas",
+    "start": 18.46,
+    "end": 18.66
+  },
+  {
+    "word": "around",
+    "start": 18.66,
+    "end": 19.04
+  },
+  {
+    "word": "it.",
+    "start": 19.04,
+    "end": 19.28
+  },
+  {
+    "word": "A",
+    "start": 19.8,
+    "end": 19.92
+  },
+  {
+    "word": "burst",
+    "start": 19.92,
+    "end": 20.14
+  },
+  {
+    "word": "from",
+    "start": 20.14,
+    "end": 20.34
+  },
+  {
+    "word": "the",
+    "start": 20.34,
+    "end": 20.44
+  },
+  {
+    "word": "Sun",
+    "start": 20.44,
+    "end": 20.7
+  },
+  {
+    "word": "made",
+    "start": 20.7,
+    "end": 21.0
+  },
+  {
+    "word": "that",
+    "start": 21.0,
+    "end": 21.24
+  },
+  {
+    "word": "gas",
+    "start": 21.24,
+    "end": 21.52
+  },
+  {
+    "word": "vibrate.",
+    "start": 21.52,
+    "end": 22.16
+  },
+  {
+    "word": "Voyager",
+    "start": 22.8,
+    "end": 23.16
+  },
+  {
+    "word": "measured",
+    "start": 23.16,
+    "end": 23.54
+  },
+  {
+    "word": "those",
+    "start": 23.54,
+    "end": 23.88
+  },
+  {
+    "word": "vibrations,",
+    "start": 23.88,
+    "end": 24.34
+  },
+  {
+    "word": "and",
+    "start": 24.64,
+    "end": 24.72
+  },
+  {
+    "word": "scientists",
+    "start": 24.72,
+    "end": 25.2
+  },
+  {
+    "word": "used",
+    "start": 25.2,
+    "end": 25.56
+  },
+  {
+    "word": "them",
+    "start": 25.56,
+    "end": 25.72
+  },
+  {
+    "word": "to",
+    "start": 25.72,
+    "end": 25.88
+  },
+  {
+    "word": "work",
+    "start": 25.88,
+    "end": 26.04
+  },
+  {
+    "word": "out",
+    "start": 26.04,
+    "end": 26.22
+  },
+  {
+    "word": "the",
+    "start": 26.22,
+    "end": 26.36
+  },
+  {
+    "word": "gas's",
+    "start": 26.36,
+    "end": 26.76
+  },
+  {
+    "word": "density.",
+    "start": 26.76,
+    "end": 27.06
+  },
+  {
+    "word": "It",
+    "start": 27.6,
+    "end": 27.8
+  },
+  {
+    "word": "was",
+    "start": 27.8,
+    "end": 27.94
+  },
+  {
+    "word": "far",
+    "start": 27.94,
+    "end": 28.36
+  },
+  {
+    "word": "denser",
+    "start": 28.36,
+    "end": 28.82
+  },
+  {
+    "word": "than",
+    "start": 28.82,
+    "end": 28.94
+  },
+  {
+    "word": "the",
+    "start": 28.94,
+    "end": 29.04
+  },
+  {
+    "word": "gas",
+    "start": 29.04,
+    "end": 29.22
+  },
+  {
+    "word": "inside",
+    "start": 29.22,
+    "end": 29.64
+  },
+  {
+    "word": "the",
+    "start": 29.64,
+    "end": 29.86
+  },
+  {
+    "word": "bubble.",
+    "start": 29.86,
+    "end": 29.98
+  },
+  {
+    "word": "That",
+    "start": 29.98,
+    "end": 30.82
+  },
+  {
+    "word": "was",
+    "start": 30.82,
+    "end": 31.14
+  },
+  {
+    "word": "evidence",
+    "start": 31.14,
+    "end": 31.52
+  },
+  {
+    "word": "of",
+    "start": 31.52,
+    "end": 31.74
+  },
+  {
+    "word": "interstellar",
+    "start": 31.74,
+    "end": 32.18
+  },
+  {
+    "word": "space.",
+    "start": 32.18,
+    "end": 32.52
+  },
+  {
+    "word": "Looking",
+    "start": 33.02,
+    "end": 33.44
+  },
+  {
+    "word": "back",
+    "start": 33.44,
+    "end": 33.68
+  },
+  {
+    "word": "through",
+    "start": 33.68,
+    "end": 33.88
+  },
+  {
+    "word": "the",
+    "start": 33.88,
+    "end": 33.98
+  },
+  {
+    "word": "data,",
+    "start": 33.98,
+    "end": 34.22
+  },
+  {
+    "word": "the",
+    "start": 34.64,
+    "end": 34.7
+  },
+  {
+    "word": "team",
+    "start": 34.7,
+    "end": 34.94
+  },
+  {
+    "word": "traced",
+    "start": 34.94,
+    "end": 35.26
+  },
+  {
+    "word": "the",
+    "start": 35.26,
+    "end": 35.42
+  },
+  {
+    "word": "crossing",
+    "start": 35.42,
+    "end": 35.7
+  },
+  {
+    "word": "to",
+    "start": 35.7,
+    "end": 35.96
+  },
+  {
+    "word": "August",
+    "start": 35.96,
+    "end": 36.24
+  },
+  {
+    "word": "2012.",
+    "start": 36.24,
+    "end": 37.0
+  },
+  {
+    "word": "A",
+    "start": 37.7,
+    "end": 37.8
+  },
+  {
+    "word": "spacecraft",
+    "start": 37.8,
+    "end": 38.18
+  },
+  {
+    "word": "from",
+    "start": 38.18,
+    "end": 38.62
+  },
+  {
+    "word": "the",
+    "start": 38.62,
+    "end": 38.76
+  },
+  {
+    "word": "70s",
+    "start": 38.76,
+    "end": 39.28
+  },
+  {
+    "word": "had",
+    "start": 39.28,
+    "end": 39.38
+  },
+  {
+    "word": "found",
+    "start": 39.38,
+    "end": 39.68
+  },
+  {
+    "word": "an",
+    "start": 39.68,
+    "end": 39.86
+  },
+  {
+    "word": "invisible",
+    "start": 39.86,
+    "end": 40.28
+  },
+  {
+    "word": "border",
+    "start": 40.28,
+    "end": 40.72
+  },
+  {
+    "word": "by",
+    "start": 40.72,
+    "end": 41.04
+  },
+  {
+    "word": "measuring",
+    "start": 41.04,
+    "end": 41.4
+  },
+  {
+    "word": "the",
+    "start": 41.4,
+    "end": 41.62
+  },
+  {
+    "word": "space",
+    "start": 41.62,
+    "end": 41.9
+  },
+  {
+    "word": "around",
+    "start": 41.9,
+    "end": 42.22
+  },
+  {
+    "word": "it.",
+    "start": 42.22,
+    "end": 42.46
+  }
+]

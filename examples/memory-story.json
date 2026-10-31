@@ -1,0 +1,128 @@
+{
+  "title": "Why the Middle of a List Is Harder to Remember",
+  "description": "An illustrated example of the serial-position effect in immediate free recall. This is a general research pattern, not a test of your memory.",
+  "tags": [
+    "memory",
+    "psychology",
+    "serial position",
+    "primacy",
+    "recency",
+    "science"
+  ],
+  "fact_text": "Which part of a list will you remember best? In immediate free recall, people often remember the first and last words better than the middle. This is the serial-position effect. Early words can get more rehearsal. The last words were heard most recently. These advantages are called primacy and recency. But the pattern can change with the task and the time before recall. So this isn't a trick that predicts your personal memory. It's a recurring pattern researchers see when they compare positions in a list.",
+  "category": "perception, memory, and cognitive science",
+  "slug": "why-the-middle-of-a-list-is-harder-to-remember",
+  "word_count": 86,
+  "sources": [
+    {
+      "title": "Serial position effects in free memory recall: An ERP study",
+      "url": "https://research.uni-luebeck.de/en/publications/serial-position-effects-in-free-memory-recall-an-erp-study/",
+      "claim": "Recall can be better for items near the beginning and end of a list than for items in between."
+    },
+    {
+      "title": "A recency-based account of the primacy effect in free recall",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11185785/",
+      "claim": "Rehearsal patterns influence serial-position effects in free recall."
+    },
+    {
+      "title": "Computational Models of Memory Search",
+      "url": "https://memory.psych.upenn.edu/files/pubs/Kaha20.pdf",
+      "claim": "Reviews serial-position effects and how experimental conditions affect recall."
+    }
+  ],
+  "review_status": "needs_review",
+  "sources_status": "provided_unverified",
+  "storyboard": [
+    {
+      "role": "hook",
+      "narration": "Which part of a list will you remember best?",
+      "visual": {
+        "kind": "question",
+        "headline": "Which items stick?",
+        "query": "",
+        "labels": []
+      }
+    },
+    {
+      "role": "setup",
+      "narration": "In immediate free recall, people often remember the first and last words better than the middle.",
+      "visual": {
+        "kind": "photo",
+        "headline": "Recall and list position",
+        "query": "word list",
+        "labels": []
+      }
+    },
+    {
+      "role": "explain",
+      "narration": "This is the serial-position effect.",
+      "visual": {
+        "kind": "photo",
+        "headline": "Recall and list position",
+        "query": "word list",
+        "labels": []
+      }
+    },
+    {
+      "role": "explain",
+      "narration": "Early words can get more rehearsal.",
+      "visual": {
+        "kind": "photo",
+        "headline": "Recall and list position",
+        "query": "word list",
+        "labels": []
+      }
+    },
+    {
+      "role": "explain",
+      "narration": "The last words were heard most recently.",
+      "visual": {
+        "kind": "photo",
+        "headline": "Recall and list position",
+        "query": "word list",
+        "labels": []
+      }
+    },
+    {
+      "role": "explain",
+      "narration": "These advantages are called primacy and recency.",
+      "visual": {
+        "kind": "photo",
+        "headline": "Recall and list position",
+        "query": "word list",
+        "labels": []
+      }
+    },
+    {
+      "role": "explain",
+      "narration": "But the pattern can change with the task and the time before recall.",
+      "visual": {
+        "kind": "photo",
+        "headline": "Recall and list position",
+        "query": "word list",
+        "labels": []
+      }
+    },
+    {
+      "role": "explain",
+      "narration": "So this isn't a trick that predicts your personal memory.",
+      "visual": {
+        "kind": "photo",
+        "headline": "Recall and list position",
+        "query": "word list",
+        "labels": []
+      }
+    },
+    {
+      "role": "reveal",
+      "narration": "It's a recurring pattern researchers see when they compare positions in a list.",
+      "visual": {
+        "kind": "photo",
+        "headline": "Recall and list position",
+        "query": "word list",
+        "labels": []
+      }
+    }
+  ],
+  "quality_warnings": []
+}
